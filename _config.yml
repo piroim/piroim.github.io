@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://piroim.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: piroim # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/piroim # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -95,9 +95,10 @@ theme_mode: #dark #[light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+# cdn: "https://github.com/piroim/piroim.github.io"
 
 # the avatar on sidebar, support local or CORS resources
+# avatar: "/commons/avatar.jpg"
 avatar: "/commons/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
